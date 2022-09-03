@@ -1,1 +1,3 @@
-This is the 2nd attempt at creating a git repository that can be updated
+#2nd Demo repo attempt
+
+##This is the description!
